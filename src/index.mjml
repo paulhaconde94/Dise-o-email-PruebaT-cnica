@@ -1,0 +1,218 @@
+<mjml>
+  <mj-head>
+    <mj-breakpoint width="600px" />
+    <mj-attributes>
+      <mj-all font-family="poppins" color="#503424" font-size="15px" />
+    </mj-attributes>
+    <mj-style>
+      .right-align {
+        text-align: right;
+        margin-left: "0";
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#ECEAEA">
+    <!-- Sección header -->
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-table>
+            <tr>
+              <td width="90px">
+                <img src="images/logoChoco.png" alt="logo-prinicipal" />
+              </td>
+              <td width="100px">
+                <img src="images/logoCorona.png" alt="logo-secundario" align="right" />
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Sección 1 -->
+    <mj-section background-color="#503424" padding="10px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-text align="center" color="#ffcc07" font-size="20px" font-family="poppins" font-weight="600">
+            CHOCO ACTUALIZADO
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Sección 2 -->
+    <mj-section background-color="#ffcc07" padding="20px 0px">
+      <mj-column>
+        <mj-text align="center" color="#503424" font-size="40px" font-weight="600">
+          <b>¡EXTRA, EXTRA!</b><br />
+          <b>YA EMPEZÓ</b>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffcc07">
+      <mj-column>
+        <mj-text align="center">
+          <a href="https://www.mesdelchocolate.com/" target="_blank">
+            <img src="images/GIF.gif" alt="gif" width="100%" />
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffcc07" padding="5px">
+      <mj-column>
+        <mj-text align="center" color="#503424" font-size="20px">
+          ¡Podrás ganar increíbles premios <br />
+          entre viajes y Chocoteras!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffcc07" padding="20px 0px">
+      <mj-column>
+        <mj-button background-color="#377532" href="https://www.mesdelchocolate.com/" target="_blank" color="#dbe0dc" border-radius="20px" width="200px" height="40px" font-size="15px" font-weight="450">
+          ¡CONOCE MÁS!
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Sección 3 -->
+    <mj-section background-color="#503424" padding="10px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-text align="center" color="#ffcc07" font-size="20px" font-family="poppins" font-weight="600">
+            CHOCO TIP
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Sección 4 -->
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-text align="center" color="#503424" font-size="24px">
+          <b>Deléitate con estas</b> <br /> <b>deliciosas recetas</b><br />
+          y además suma gramos <br /> en el Mes del Chocolate
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="10px">
+      <mj-group>
+        <mj-column width="100%" padding-right="10px">
+          <mj-table>
+            <tr align="right">
+              <td width="100px">
+                <a href="https://www.chocolatecorona.com/recetas/doble-chocolate" target="_blank">
+                  <img src="images/Chocolate 1.png" alt="img-chocolate1" />
+                </a>
+              </td>
+              <td width="100px" style="padding-left: 10px;">
+                <a href="https://www.chocolatecorona.com/recetas/chocolate-corona-caliente-con-masmelo-y-canela" target="_blank">
+                  <img src="images/Chocolate 2.png" alt="img-chocolate2" />
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td align="center">
+                <mj-text mj-class="texto-coronaFlash">
+                  Doble Chocolate <br />
+                  <b><em>(Cocoa Corona y Corona Flash)</em></b>
+                </mj-text>
+              </td>
+              <td align="center">
+                <mj-text mj-class="texto-coronaVainilla">
+                  Chocolate con masmelos<br />
+                  <b><em>(Corona Vainilla)</em></b>
+                </mj-text>
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Sección 5 -->
+    <mj-section background-color="#ffffff" padding="5px">
+      <mj-column>
+        <mj-text align="center" color="#503424" font-size="22px">
+          <b>¡HAY MUCHAS MÁS!</b><br />
+          Y todas suman gramos en el Mes del Chocolate
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px 0px">
+      <mj-column>
+        <mj-button background-color="#377532" href="https://www.chocolatecorona.com/recetas/bebidas" target="_blank" color="#dbe0dc" border-radius="30px" width="200px" height="50px" font-size="15px" font-weight="450">
+          ¡CONÓCELAS AQUÍ!
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Sección 6 -->
+    <mj-section background-color="#503424" padding="10px">
+      <mj-group>
+        <mj-column width="100%">
+          <mj-text align="center" color="#ffcc07" font-size="20px" font-family="poppins" font-weight="600">
+            CHOCO PROMO
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Sección 7 -->
+    <mj-section background-color="#e3e3e3">
+      <mj-column>
+        <mj-text align="center" color="#503424" font-size="24px">
+          <b>¡La Chocotera sigue en</b> <br /> <b>promo con los Combos!</b>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#e3e3e3">
+      <mj-column>
+        <mj-text color="#503424" align="center" color="#503424" font-size="24px" line-height="1.5" font-weight="500">
+          *Los <mark style="background-color: #ffcc07; color: #503424;">empaques de productos de bebidas</mark> te servirán para <mark style="background-color: #ffcc07; color: #503424;">sumar gramos</mark> en el Mes del Chocolate
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#e3e3e3">
+      <mj-column css-class="right-align" padding="0">
+        <mj-text align="center">
+          <a href="https://tienda.chocolatecorona.com/combo-chocolatoso/p" target="_blank">
+            <img src="images/Chocolatoso.png" alt="gif" width="100%" />
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#e3e3e3">
+      <mj-column>
+        <mj-text align="center">
+          <a href="https://tienda.chocolatecorona.com/combo-momentos/p" target="_blank">
+            <img src="images/Chocolatoso.png" alt="gif" width="100%" />
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#e3e3e3" padding="20px 0px">
+      <mj-column>
+        <mj-button background-color="#377532" href="https://tienda.chocolatecorona.com/chocotera---combos" target="_blank" color="#dbe0dc" border-radius="30px" width="350px" height="60px" font-size="25px" font-weight="500">
+          ¡CONSÍGUELOS AQUÍ!!
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Sección footer -->
+    <mj-section background-color="#503424">
+      <mj-column>
+        <mj-button href="https://www.chocolatecorona.com/" color="#FFFFFF" font-size="16px" align="center" background-color="transparent">
+          ¡Ingresa a <b>www.chocolatecorona.com</b> para conocer más!
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-text align="center">
+          <a href="https://www.facebook.com/CHOCOLATECORONAOFICIAL/" target="_blank">
+            <img src="images/facebook.png" alt="Facebook" />
+          </a>
+          &nbsp;&nbsp;
+          <a href="https://www.instagram.com/chocolatecorona/" target="_blank">
+            <img src="images/ig.png" alt="Instagram" />
+          </a>
+          &nbsp;&nbsp;
+          <a href="https://www.tiktok.com/@chocolatecorona" target="_blank">
+            <img src="images/tiktok.png" alt="Tik Tok" />
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mjml": "^4.13.0"
+  },
+  "scripts": {
+    "start": "mjml --watch src/index.mjml --output src/index.html",
+    "server": "live-server --host=localhost --open=src",
+    "dev": "concurrently \"yarn start\" \"yarn server\"",
+    "build": "mjml src/index.mjml --output src/index.html"
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0",
+    "live-server": "^1.2.2"
+  }
+}
